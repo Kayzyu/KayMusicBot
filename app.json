@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/SJMxADITI/TryMusic",
+    "repository": "https://github.com/Kayzyu/KayMusicBot",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -24,36 +24,34 @@
         },
         "OWNER_NAME": {
             "description": "fill YOUR USERNAME WITHOUT '@' .",
-            "value": "ABHIISH3K_xD",
+            "value": "Kayxyz",
             "required": false
         },
         "ALIVE_NAME": {
             "description": "PUT YOUR BOT NAME .",
-            "value": "𝗛𝗘𝗥𝗢𝗫 𝗠𝗨𝗦𝗜𝗖",
+            "value": "KAY MUSIC",
             "required": false
-            
         },
          "BOT_NAME": {
             "description": "PUT YOUR BOT NAME.",
-            "value": "𝗛𝗘𝗥𝗢𝗫 𝗠𝗨𝗦𝗜𝗖",
+            "value": "KAY MUSIC",
             "required": true
         },
          "DURATION_LIMIT": {
             "description": "PUT YOUR BOT duration time.",
-            "value": "70",
+            "value": "300",
             "required": true
         },
         "GROUP_SUPPORT": {
             "description": "PUT YOUR group username without @.",
-            "value": "TrickyAbhii_Op",
+            "value": "KayzuSupport",
             "required": true
         },
         "UPDATES_CHANNEL": {
             "description": "PUT YOUR channel username without @.",
-            "value": "Techno_Trickop",
+            "value": "KayXChannel",
             "required": true
         },
-    
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
             "required": true
